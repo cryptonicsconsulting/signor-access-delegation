@@ -18,7 +18,7 @@ Usage examples can be found in the [unit tests](https://github.com/cryptonicscon
 
 ## Crypto Library
 
-The JavaScript is implemented in [CryptoLib.js](https://github.com/cryptonicsconsulting/keyRegister/blob/master/cryptoLib.js). 
+The JavaScript library is implemented in [CryptoLib.js](https://github.com/cryptonicsconsulting/keyRegister/blob/master/cryptoLib.js). 
 
 It uses crypto primitives built into Node.js (which in turn uses OpenSSL) and [eccrypto](https://github.com/bitchan/eccrypto).
 
